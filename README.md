@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThatDumbCoderGirl
-- 👀 I’m interested in ...everything interesting, I never stop being curious:)
-- 🌱 I’m currently learning ...coding, sketching, doodling, fun things!
+- 👀 I’m interested in ...coding (although I'm a complete beginner and not from this background)
+- 🌱 I’m currently learning ...coding, tech developments, AI, gaming and so on.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
